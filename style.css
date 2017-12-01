@@ -1,0 +1,17 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+.wrapper {
+	min-height: 100%;
+	margin-bottom: -100px;
+}
+.footer,
+.push {
+	height: 50px;
+	background: black;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 15px;
+	color: white;
+}
